@@ -1,7 +1,0 @@
-# AURORA INVITE SCRAPER CONFIG
-
-server_amount: 1 # amount of servers to scrape (integer)
-website: discordhome # which website to scrape invites from (top/discordhome/discordtop) - more coming soon
-
-use_search_query: true # use search queries when scraping? (true/false)
-search_queries: ["roblox", "bruh"] # queries to use when scraping - only applicable if use_search_query is true (array of strings)
