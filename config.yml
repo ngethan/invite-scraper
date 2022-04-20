@@ -1,0 +1,9 @@
+# AURORA INVITE SCRAPER CONFIG
+
+auth_key: "auth key goes here" # your license to use this product - if you don't have one, purchase one at https://discord.gg/4rHg2pyHjF
+
+server_amount: 100 # amount of servers to scrape (integer)
+website: top # which website to scrape invites from (top/discordhome/discordst/discordio) - adding more soon
+
+use_search_query: true # use search queries when scraping? (true/false)
+search_queries: ["queries", "go", "here"] # queries to use when scraping - only applicable if use_search_query is true (array of strings)
